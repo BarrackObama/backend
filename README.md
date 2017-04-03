@@ -18,4 +18,5 @@ in deze opdracht heb je een calculator die kan optellen en aftrekken.
 je kan ook weergeven dat in de eerste textbox en de tweede textbox het zelfde getal kan worden weergegeven.
 dan heb je nog een vierde textbox als je daar het juiste telefoon nummer indoet dan gaaft hij weer of het juiste telefoon nummer is ingevoerd.
 
-<h1> opdracht 6 = opdracht 6
+<h1> opdracht 6 = Grafische Reken Machine </h1>
+deze opdracht werdt een rekenmachine gemaakt die moest werken met de juiste gegevens alleen dat deed hij niet helemaal.
