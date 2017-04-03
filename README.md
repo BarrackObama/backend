@@ -10,4 +10,12 @@ in deze opdracht moet je het invul formulier die je bij oefening 3 hebt gemaakt 
 deze opdracht wordt een kalender weergegeven de kalender staat automatisch op 1 januarie 1995. <br>
 als je dan een geboorte dag invult en dan berekent hij dat door je geboorte datum min de huidige dag te doen en dan heb je je leeftijd.
 
-<h1> opdracht 4 = website 4 </h1> 
+<h1> opdracht 4 = opdracht 4 </h1> 
+dit is een opdracht waarmee je gaat aftellen tot de dag dat het pasen is.
+
+<h1> opdracht 5 = opdracht 5 </h1>
+in deze opdracht heb je een calculator die kan optellen en aftrekken. 
+je kan ook weergeven dat in de eerste textbox en de tweede textbox het zelfde getal kan worden weergegeven.
+dan heb je nog een vierde textbox als je daar het juiste telefoon nummer indoet dan gaaft hij weer of het juiste telefoon nummer is ingevoerd.
+
+<h1> opdracht 6 = opdracht 6
