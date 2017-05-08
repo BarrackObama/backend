@@ -20,3 +20,6 @@ dan heb je nog een vierde textbox als je daar het juiste telefoon nummer indoet 
 
 <h1> opdracht 6 = Grafische Reken Machine </h1>
 deze opdracht werdt een rekenmachine gemaakt die moest werken met de juiste gegevens alleen dat deed hij niet helemaal.
+
+<h1> opdracht 7 = Tafel tester </h1>
+in deze opdracht wordt gevraagd om een tafeltester te maken waar bij je een cijfer moet opgeven als hoogste cijfer en daarmee maakt de programmering 5 sommen waarmee onder het gegeven getal sommen worden gemaakt daarvan kan je de antwoorden in vullen die kan je controleren daarna krijg je een cijfer.
