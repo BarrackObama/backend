@@ -23,3 +23,6 @@ deze opdracht werdt een rekenmachine gemaakt die moest werken met de juiste gege
 
 <h1> opdracht 7 = Tafel tester </h1>
 in deze opdracht wordt gevraagd om een tafeltester te maken waar bij je een cijfer moet opgeven als hoogste cijfer en daarmee maakt de programmering 5 sommen waarmee onder het gegeven getal sommen worden gemaakt daarvan kan je de antwoorden in vullen die kan je controleren daarna krijg je een cijfer.
+
+<h1> opdracht 8 = de website </h1>
+in deze opdracht werd er een site gemaakt met een databse er in die gevuld moest worden en waar je als de site geopend werd data in kon op zoeken.
